@@ -1,8 +1,13 @@
 {
-  "name": "personal-introduction",
-  "version": "1.0.0",
-  "description": "introduction myself",
-  "devDependencies": {
-    "grunt-contrib-uglify": "^2.0.0"
-  }
+    "name": "personal-introduction",
+    "version": "1.0.0",
+    "description": "introduction myself",
+    "devDependencies": {
+        "grunt-contrib-uglify": "^2.0.0"
+    },
+    "keywords": [
+        "grunt",
+        "git"
+    ],
+    "author": "Zivv"
 }
