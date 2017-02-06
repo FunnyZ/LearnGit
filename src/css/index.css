@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/*banner begin*/
+.banner {
+    width: 100%;
+    height: 460px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    background: url('../img/sz.jpg') no-repeat;
+}
+.banner img {
+    width: 100%;
+}
+.banner .position, .banner .look-for-job {
+    position: absolute;
+    font-size: 150%;
+}
+.position {
+    left: 5%;
+    bottom: 10%;
+}
+.look-for-job {
+    right: 5%;
+    bottom: 10%;
+}
+
+/*container begin*/
+.container {
+    padding: 5%;
+    background-color: #e6e6e6;
+}
+.container .container-block {
+
+}
+.container .container-block h1 {
+    padding-left: 10px;
+    border-left: 10px solid #a5534f;
+}
